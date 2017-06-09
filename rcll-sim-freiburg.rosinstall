@@ -1,0 +1,27 @@
+- git:
+    local-name: mongodb_store
+    uri: https://github.com/strands-project/mongodb_store.git
+    version: hydro-devel
+- git:
+    local-name: occupancy_grid_utils
+    uri: https://github.com/clearpathrobotics/occupancy_grid_utils.git
+    version: indigo-devel
+- git:
+    local-name: rcll_ros
+    uri: https://github.com/timn/ros-rcll_ros.git
+- git:
+    local-name: rcll_ros_msgs
+    uri: https://github.com/timn/ros-rcll_ros_msgs.git
+- git:
+    local-name: rosplan_interface_rcllrefbox
+    uri: https://github.com/timn/rosplan_interface_rcllrefbox.git
+- git:
+    local-name: gki_symbolic_planning
+    uri: https://github.com/GKIFreiburg/gki_symbolic_planning.git
+- git:
+    local-name: robocup_logistics_league_planning
+    uri: https://github.com/GKIFreiburg/robocup_logistics_league_planning.git
+- git:
+    local-name: rosplan
+    uri: https://github.com/GKIFreiburg/ROSPlan.git
+
