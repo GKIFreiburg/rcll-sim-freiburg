@@ -7,12 +7,6 @@
     uri: https://github.com/clearpathrobotics/occupancy_grid_utils.git
     version: indigo-devel
 - git:
-    local-name: rcll_ros
-    uri: https://github.com/timn/ros-rcll_ros.git
-- git:
-    local-name: rcll_ros_msgs
-    uri: https://github.com/timn/ros-rcll_ros_msgs.git
-- git:
     local-name: rosplan_interface_rcllrefbox
     uri: https://github.com/timn/rosplan_interface_rcllrefbox.git
 - git:
